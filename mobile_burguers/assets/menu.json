@@ -1,0 +1,42 @@
+[
+    {
+      "image": "assets/images/burger1.jpg",
+      "name": "Burger Clássico",
+      "description": "Pão, carne, queijo, alface, tomate e maionese",
+      "price": "R$ 15.99"
+    },
+    {
+      "image": "assets/images/burger2.jpg",
+      "name": "Burger de Frango",
+      "description": "Pão, frango grelhado, queijo, alface e molho especial",
+      "price": "R$ 14.99"
+    },
+    {
+      "image": "assets/images/burger3.jpg",
+      "name": "Burger de Frango",
+      "description": "Pão, frango grelhado, queijo, alface e molho especial",
+      "price": "R$ 14.99"
+    },
+    {
+      "image": "assets/images/burger4.jpg",
+      "name": "Burger monster",
+      "description": "Pão, carne grelhado 120g, 2xqueijo, 2xpresunto, ovo, bacon, alface e molho especial",
+      "preco": "R$ 18.99"
+    },
+    {
+      "image": "assets/images/burger5.jpg",
+      "name": "Burger monster2",
+      "description": "Pão, carne grelhado 140g, 3xqueijo, 3xpresunto, 2xovo, 2xbacon, alface e molho especial",
+      "price": "R$ 19.99"
+    },
+
+    {
+      "image": "assets/images/burger6.jpg",
+      "name": "Burger delicius",
+      "description": "Pão, carne grelhado 160g, 3xqueijo, 3xpresunto, 3xovo, 3xbacon, alface e molho especial",
+      "price": "R$ 21.99"
+    }
+
+  ]
+  
+  
